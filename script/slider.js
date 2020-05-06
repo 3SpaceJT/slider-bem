@@ -1,8 +1,9 @@
 const images = [
-  '/img/image1.jpg',
-  '/img/image2.jpg',
-  '/img/image3.jpg',
-  '/img/image4.jpg',
+  'https://cdn.pixabay.com/photo/2016/02/14/12/59/everest-1199431_960_720.jpg',
+  'https://cdn.pixabay.com/photo/2019/07/21/19/01/landscape-4353358_960_720.jpg',
+  'https://cdn.pixabay.com/photo/2016/08/11/23/48/italy-1587287_960_720.jpg',
+  'https://cdn.pixabay.com/photo/2017/08/16/15/56/lake-2648224_960_720.jpg',
+  'https://cdn.pixabay.com/photo/2017/01/14/13/59/castelmezzano-1979546_960_720.jpg'
 ]
 
 class Slider {
